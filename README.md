@@ -53,4 +53,4 @@ Feel free to fork this repo and suggest enhancements or request features!
 ## 📬 Contact
 
 For questions, feedback, or collaboration:
-**David Azorji** – [your.email@domain.com](mailto:your.email@domain.com)
+**David Azorji** – [davoazorji1@gmail.com](mailto:davoazorji1@gmail.com)
