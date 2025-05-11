@@ -7,7 +7,6 @@ Shop.Com, an online retail business, is facing reduced customer engagement and c
 - **Decreased Conversion Rates:** Fewer site visitors are converting into paying customers.
 - **High Marketing Expenses:** Significant investments in marketing campaigns are not yielding expected returns.
 - **Need for Customer Feedback Analysis:** Understanding customer opinions about products and services is crucial for improving engagement and conversions.
-![image](https://github.com/user-attachments/assets/fb4a7408-41af-4bca-b6e7-a4eaedcf3b10)
 
 This project presents a comprehensive Power BI dashboard for analyzing marketing performance, customer sentiment, and conversion trends at Shop.com. It helps identify key drop-off points in the sales funnel and provides strategic insights to improve engagement and revenue.
 
