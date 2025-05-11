@@ -20,7 +20,7 @@ shopcom-marketing-analytics/
 └── docs/ # Optional technical docs
 
 ## 🧰 Tools Used
-Python – Data manipulation and sentiment analysis
+**Python** – Data manipulation and sentiment analysis
 - **pandas – for data wrangling
 - **pyodbc – to connect and extract data from databases
 - **nltk – for natural language processing
