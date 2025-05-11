@@ -12,12 +12,11 @@ This project presents a comprehensive Power BI dashboard for analyzing marketing
 
 ## 📁 Project Structure
 shopcom-marketing-analytics/
-│
-├── PowerBI_Report.pbix # Power BI report file
-├── README.md # Project overview
-├── data/ # Sample or anonymized dataset
-├── assets/ # Images or dashboard screenshots
-└── docs/ # Optional technical docs
+- README.md # Project overview
+- PowerBI_Report.pbix # Power BI report file
+- data/ # Sample or anonymized dataset
+- assets/ # Images or dashboard screenshots
+- docs/ # Optional technical docs
 
 ## 🧰 Tools Used
 **Python** – Data manipulation and sentiment analysis
@@ -26,9 +25,10 @@ shopcom-marketing-analytics/
  - *nltk* – for natural language processing
  - *SentimentIntensityAnalyzer (VADER)* – to classify reviews into Positive, Negative, Mixed, etc.
 - **Power BI** – Dashboard development & visualization
+- **Microsoft PowerPoint** – Interactively telling telling the Power Bi story to an audience
 - **Microsoft SQL** – Data cleaning
 - **Python (Pandas, Seaborn)** – Data exploration and keyword classification (optional)
-- **Git & GitHub** – Version control and collaboration
+- **Git & GitHub** – Version control and collaboration 
 
 ## 🚀 Getting Started
 
