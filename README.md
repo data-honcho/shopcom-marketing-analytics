@@ -11,7 +11,13 @@ This project presents a comprehensive Power BI dashboard for analyzing marketing
 - 📈 Delivered actionable recommendations based on data storytelling.
 
 ## 📁 Project Structure
-
+shopcom-marketing-analytics/
+│
+├── PowerBI_Report.pbix # Power BI report file
+├── README.md # Project overview
+├── data/ # Sample or anonymized dataset
+├── assets/ # Images or dashboard screenshots
+└── docs/ # Optional technical docs
 
 ## 🧰 Tools Used
 
