@@ -21,10 +21,10 @@ shopcom-marketing-analytics/
 
 ## 🧰 Tools Used
 **Python** – Data manipulation and sentiment analysis
-- **pandas – for data wrangling
-- **pyodbc – to connect and extract data from databases
-- **nltk – for natural language processing
-- **SentimentIntensityAnalyzer (VADER) – to classify reviews into Positive, Negative, Mixed, etc.
+ *pandas* – for data wrangling
+- *pyodbc* – to connect and extract data from databases
+- *nltk* – for natural language processing
+- *SentimentIntensityAnalyzer (VADER)* – to classify reviews into Positive, Negative, Mixed, etc.
 - **Power BI** – Dashboard development & visualization
 - **Microsoft SQL** – Data cleaning
 - **Python (Pandas, Seaborn)** – Data exploration and keyword classification (optional)
