@@ -25,7 +25,7 @@ shopcom-marketing-analytics/
  - *nltk* – for natural language processing
  - *SentimentIntensityAnalyzer (VADER)* – to classify reviews into Positive, Negative, Mixed, etc.
 - **Power BI** – Dashboard development & visualization
-- **Microsoft PowerPoint** – Interactively telling telling the Power Bi story to an audience
+- **Microsoft PowerPoint** – Interactively telling the Power Bi story to an audience
 - **Microsoft SQL** – Data cleaning
 - **Python (Pandas, Seaborn)** – Data exploration and keyword classification (optional)
 - **Git & GitHub** – Version control and collaboration 
