@@ -46,7 +46,7 @@ shopcom-marketing-analytics/
 
 ## 📸 Dashboard Preview
 
-![Dashboard Overview]([assets/dashboard_overview.png](https://drive.google.com/drive/u/0/folders/1MMXacFKlZXtlTcAh6QYO-QBJGNv9uaQK))
+![Dashboard Overview](Overview.JPG)
 
 ## 📌 Key Insights
 
